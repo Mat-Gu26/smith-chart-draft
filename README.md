@@ -1,7 +1,7 @@
 # Smith Chart Drafting Studio
 
 A precision, browser-based **compass-and-straightedge drafting studio** for the Complete Smith Chart. Built for RF, microwave, and transmission-line work where you want to draw exact centered circles, radial rays, circular rotation arrows, and ruler drop lines visually—with optional exact RF math input whenever you need multi-decimal accuracy.
-Mage with Gemini.
+Made with Gemini.
 
 ### [Launch Live App](https://mat-gu26.github.io/smith-chart-draft/)
 
