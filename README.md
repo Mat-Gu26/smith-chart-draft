@@ -2,7 +2,7 @@
 
 A precision, browser-based **compass-and-straightedge drafting studio** for the Complete Smith Chart. Built for RF, microwave, and transmission-line work where you want to draw exact centered circles, radial rays, circular rotation arrows, and ruler drop lines visually—with optional exact RF math input whenever you need multi-decimal accuracy.
 
-### [Launch Live App](https://<your-username>.github.io/<repo-name>/)
+### [Launch Live App](https://mat-gu26.github.io/smith-chart-draft/)
 
 <!-- Optional: Once you add screenshot.png to your repo, uncomment the line below -->
 <!-- ![Smith Chart Drafting Studio Preview](screenshot.png) -->
@@ -13,7 +13,7 @@ A precision, browser-based **compass-and-straightedge drafting studio** for the 
 
 Most online Smith Chart tools work like black-box calculators where you type in component values and watch plots appear. When learning or solving transmission-line problems by hand (or documenting graphical constructions for homework and reports), you often want a **true digital compass and straightedge**:
 
-- Circles strictly locked to the exact chart center (`$z = 1 + j0$`)
+- Circles strictly locked to the exact chart center ($z = 1 + j0$)
 - Straight radii and diameters locked through the exact center out to the wavelength/angle rings
 - Circular rotation arrows showing `$\Delta\lambda$` clockwise (WTG) or counter-clockwise (WTL)
 - Vertical drop lines straight down to the bottom Radially Scaled Parameters rulers
